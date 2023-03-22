@@ -1,0 +1,76 @@
+/*
+...............
+Elementos
+
+ul -- lista no ordenada
+ol -- lista ordenada
+p  -- parrafp
+div
+a
+table
+
+..............
+Selectores
+
+id
+class
+
+..............
+atributo
+atributos --- width
+
+...
+tags -- 
+p
+a
+
+...........
+selector universal
+*
+
+*/
+.contenedor {
+    line-height: 50%;
+    margin-bottom: 4rem;
+}
+.contenedor h1 {
+    color: red;
+    font-size: 20px;
+}
+.contenedor span {
+    color: salmon;
+}
+.ejemplo-primera-clase{
+   border: solid; 
+}
+/*Seleccionar por id*/
+#t1{
+    color: cyan;
+}
+/*Seleccionar por clase*/
+.t2{
+    color: red;
+}
+
+/*Slecconar por atributo*/
+[samuel] {
+    color: yellow;
+}
+/*No hay una jerarquia selecciona el ultimo que se encuentra*/
+[samuel="otroNombre"] {
+    color: aquamarine;
+}
+/*Seleccionar por tag*/
+h1 {
+    color: violet;
+}
+.clase1 {
+    color: green;
+}
+p{
+    color: black;
+}
+/* * {
+    box-sizing: border-box;
+    margin: 0;
+} */
