@@ -22,3 +22,8 @@ HTML es un lenguaje de marcado
     Porpiedades
 
         Son las caracteristicas que se le van a dar a nuetro elemento
+
+
+
+
+# Continuacion de apuntes clase 3
